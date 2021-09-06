@@ -1,0 +1,35 @@
+body{
+    background-image: url(img/pexels-pixabay-301614.jpg) ;
+    background-size:1930px 980px ;
+    background-repeat: no-repeat;
+    position: absolute;
+    
+}
+
+.side a{
+    color: rgb(233, 7, 7);
+
+}
+h1{
+    margin: 70px;
+    text-align: center;
+    color: rgb(172, 172, 1);
+    background-color: brown;
+}
+.oh{
+    text-align: center;
+}
+.html{
+    text-align: center;
+    margin: 20px;
+    color: yellowgreen;
+    font-size: 20px;
+}
+.link a{
+    color: rgb(43, 43, 3);
+    text-align: center;
+}
+.ore img{
+    text-align: center;
+}
+
