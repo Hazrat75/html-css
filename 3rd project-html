@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="background">
+        
+        <div class="navbar">
+            <img src="img/logo.png">
+            <nav>
+                <ul>
+                    <li><a href="">HOME</a></li>
+                    <li><a href="">SERVICE</a></li>
+                    <li><a href="">PRICING</a></li>
+                    <li><a href="">ABOUT US</a></li>
+                    <li><a href="">CONTACT US</a></li>
+                </ul>
+            </nav>
+        </div>
+        <div class="content">
+            <h1>Let's Start The Magic</h1>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem sit iusto nobis impedit quo?<br>
+                Laboriosam reiciendis quo omnis deleniti vero?
+            </p>
+            <div class="nav">
+            <a class="fst" href="#">JOIN FREE</a>
+            <a class="send" href="#">EXPLORE MORE</a>
+            </div>   
+        </div>
+
+        <footer>
+            Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+        </footer>
+
+    </div>
+</body>
+</html>
